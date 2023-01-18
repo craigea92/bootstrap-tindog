@@ -9,6 +9,15 @@ h1 {
   font-weight: 900;
 }
 
+h3 {
+  font-family: 'Montserrat';
+  font-weight: 900;
+}
+
+p {
+  color: #8f8f8f;
+}
+
 #title {
   background-color: #ff4c68;
   color: white;
@@ -52,3 +61,24 @@ padding: 0 0 4.5em;
   width: 60%;
   transform: rotate(25deg);
 }
+
+/* Features Section */
+
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 4%;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
