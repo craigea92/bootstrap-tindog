@@ -1,4 +1,4 @@
-# bootstrap-tindog
+# BootStrap Tindog
 
 ## Project Description
 I undertook an engaging project that entailed building a Tinder-inspired app specially crafted for our furry friends! I developed the app using HTML and CSS, which I further augmented with Bootstrap. An immensely useful tool for applying CSS styles to a website.
